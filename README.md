@@ -13,7 +13,7 @@ The analysis uses data from the [Kaggle Playground Series - Season 4, Episode 1 
 - Activity metrics (active status, credit card ownership)
 
 ## Requirements
-- Python 3.8+
+- Python 3.11
 - Libraries:
   - pandas
   - numpy
